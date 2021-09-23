@@ -1,4 +1,4 @@
-import zwane
+import zwane, jerry
 
 # Main starts the program
 def main():
@@ -7,6 +7,7 @@ def main():
     print()
     # Print  greetings
     zwane.display_greeting()
+    jerry.greeting()
 
 # Start main
 if __name__ == "__main__":
