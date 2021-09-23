@@ -1,2 +1,2 @@
-def display_greeting():
+def greeting():
     print("Hello from Jerry Marollano")
