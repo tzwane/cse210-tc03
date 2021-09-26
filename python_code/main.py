@@ -8,6 +8,7 @@ def main():
     # Print  greetings
     zwane.display_greeting()
     jerry.greeting()
+    josh.display_greeting()
 
 # Start main
 if __name__ == "__main__":
